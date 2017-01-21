@@ -152,6 +152,8 @@
 ;;----------------------------------------------------------------------------
 (require 'init-local nil t)
 
+;; customize
+(require 'init-vue-model)
 
 ;;----------------------------------------------------------------------------
 ;; Locales (setting them earlier in this file doesn't work in X)
